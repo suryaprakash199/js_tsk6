@@ -1,0 +1,19 @@
+body {
+ 		background-image: url(img/bg1.jpg); 
+ 		background-size: cover;	
+ 	}
+ 	.image {
+ 		background-image: url(img/bg.jpg);
+ 		background-size: cover; 	
+ 	}
+ 	.images {
+ 		background-image: url(img/ba.jpg);
+ 		background-size: cover; 	
+ 	}
+ 	.imagen {
+ 		background-image: url(img/bb.jpg);
+ 		background-size: cover; 	
+ 	}
+ 		input::-webkit-inner-spin-button {
+       -webkit-appearance: none;
+  	}
